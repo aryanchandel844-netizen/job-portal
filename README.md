@@ -62,7 +62,8 @@ I built this project to strengthen my full-stack skills. It handles real use cas
 )
 
 ### 📋 Job Detail
-![Job Detail]("C:\Users\Aryan Chandel\Pictures\job detail.png")
+![Job Detail](<img width="1366" height="524" alt="job detail" src="https://github.com/user-attachments/assets/2f21eac5-6000-44bd-92e3-a6cd903ddd2f" />
+)
 
 ### 🔐 Login
 ![Login](<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/0c36e7ff-f8e4-4cd5-b150-f6913c5cbe83" />
