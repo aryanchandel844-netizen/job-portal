@@ -53,23 +53,23 @@ I built this project to strengthen my full-stack skills. It handles real use cas
 - MS SQL Server integration with Django using ODBC
 ## 📸 Screenshots
 ### 🏠 Dashboard
-!Dashboard]<img width="1366" height="644" alt="dashboard" src="https://github.com/user-attachments/assets/bb3aa97c-8265-48e7-8d7e-01954779e28b" />
+Dashboard]<img width="1366" height="644" alt="dashboard" src="https://github.com/user-attachments/assets/bb3aa97c-8265-48e7-8d7e-01954779e28b" />
 
 ### 🔐 Login
-![Login]<img width="1366" height="679" alt="login page" src="https://github.com/user-attachments/assets/606b5ac7-884e-4cb3-99f3-6a8a9f7bce38" />
-<img width="1366" height="680" alt="register page" src="https://github.com/user-attachments/assets/bd403664-605a-42b5-af2d-15ad933b6d95" />
+[Login]<img width="1366" height="679" alt="login page" src="https://github.com/user-attachments/assets/606b5ac7-884e-4cb3-99f3-6a8a9f7bce38" />
+
 
 ### ➕ Register
-![Register]<img width="1366" height="680" alt="register page" src="https://github.com/user-attachments/assets/e24cf712-dc01-4746-a483-453efb09d3d6" />
-
-### ➕ Post Job
-![Post job]<img width="1366" height="524" alt="job detail" src="https://github.com/user-attachments/assets/47813f33-d305-48a9-bd7e-bae5c99fd145" />
+[Register]<img width="1366" height="680" alt="register page" src="https://github.com/user-attachments/assets/e24cf712-dc01-4746-a483-453efb09d3d6" />
 
 ### Job Detail
-![Job Detail]<img width="1366" height="642" alt="postjob11" src="https://github.com/user-attachments/assets/a30b04ff-4bc8-4a54-a51c-085b24b44125" />
+[Job Detail]<img width="1366" height="524" alt="job detail" src="https://github.com/user-attachments/assets/47813f33-d305-48a9-bd7e-bae5c99fd145" />
+
+### ➕ Post Job
+[Post job]<img width="1366" height="642" alt="postjob11" src="https://github.com/user-attachments/assets/a30b04ff-4bc8-4a54-a51c-085b24b44125" />
 
 ### 🔧 Admin Panel
-![Admin Panel]<img width="1366" height="653" alt="admin" src="https://github.com/user-attachments/assets/26f29ba3-dc03-48d3-b7cf-7b34e2dd1cf1" />
+[Admin Panel]<img width="1366" height="653" alt="admin" src="https://github.com/user-attachments/assets/26f29ba3-dc03-48d3-b7cf-7b34e2dd1cf1" />
 
 
 
