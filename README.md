@@ -1,3 +1,4 @@
+<img width="1366" height="644" alt="dashboard" src="https://github.com/user-attachments/assets/439e0645-614d-49dd-9a38-1d8b6b351f53" />
 # 🏢 Job Portal
 
 > A real-world job portal where employers post jobs and candidates apply — built from scratch using Django REST + React.js
@@ -55,34 +56,24 @@ I built this project to strengthen my full-stack skills. It handles real use cas
 - CORS configuration between two different servers
 - Role-based access control (employer vs seeker)
 - MS SQL Server integration with Django using ODBC
-## 📸 Screenshots
+# 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="1366" height="681" alt="image" src="https://github.com/user-attachments/assets/0c456879-3e26-4142-aa13-9d37abb4a318" />
-)
+![Home Page](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/dashboard.png)
 
 ### 📋 Job Detail
-![Job Detail](<img width="1366" height="524" alt="job detail" src="https://github.com/user-attachments/assets/2f21eac5-6000-44bd-92e3-a6cd903ddd2f" />
-)
+![Job Detail](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/job_detail.png)
 
 ### 🔐 Login
-![Login](<img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/0c36e7ff-f8e4-4cd5-b150-f6913c5cbe83" />
-)
+![Login](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/login_page.png)
 
 ### 📝 Register
-![Register](<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/b9bb5653-4752-4af9-a81e-228c25447099" />
-)
-### 📊 Dashboard
-![Dashboard](<img width="1366" height="644" alt="dashboard" src="https://github.com/user-attachments/assets/db0b8056-143c-4be1-8c9d-b723085a855a" />
-)
+![Register](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/register_page.png)
+
 ### ➕ Post Job
-![Post Job](<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/811673b0-2645-4360-a778-30d7d8cc41c3" />
-)
+![Post Job](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/post_job.png)
 
 ### 🔧 Admin Panel
-![Admin](<img width="1366" height="653" alt="image" src="https://github.com/user-attachments/assets/872f6d4a-db8f-4877-80d6-992ea74342c0" />
-)
-)
----
+![Admin](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/admin.png)
 
 ## 📁 Project Structure
