@@ -73,8 +73,7 @@ I built this project to strengthen my full-stack skills. It handles real use cas
 ![Register](<img width="1366" height="680" alt="image" src="https://github.com/user-attachments/assets/b9bb5653-4752-4af9-a81e-228c25447099" />
 )
 ### 📊 Dashboard
-![Dashboard](<img width="1366" height="644" alt="image" src="https://github.com/user-attachments/assets/f4aae899-7750-487c-838c-8deb9189fb8e" />
-)
+![Dashboard](file:///C:/Users/Aryan%20Chandel/Pictures/dashboard.png)
 
 ### ➕ Post Job
 ![Post Job](<img width="1366" height="642" alt="image" src="https://github.com/user-attachments/assets/811673b0-2645-4360-a778-30d7d8cc41c3" />
