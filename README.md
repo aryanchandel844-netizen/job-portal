@@ -1,8 +1,3 @@
-<img width="1366" height="644" alt="dashboard" src="https://github.com/user-attachments/assets/439e0645-614d-49dd-9a38-1d8b6b351f53" />
-# 🏢 Job Portal
-
-> A real-world job portal where employers post jobs and candidates apply — built from scratch using Django REST + React.js
-
 I built this project to strengthen my full-stack skills. It handles real use cases like JWT-based login, role-based access (seeker vs employer), and live job filtering.
 
 ---
@@ -56,24 +51,10 @@ I built this project to strengthen my full-stack skills. It handles real use cas
 - CORS configuration between two different servers
 - Role-based access control (employer vs seeker)
 - MS SQL Server integration with Django using ODBC
-# 📸 Screenshots
+## 📸 Screenshots
+### 🏠 Dashboard
+!Dashboard]<img width="1366" height="644" alt="dashboard" src="https://github.com/user-attachments/assets/bb3aa97c-8265-48e7-8d7e-01954779e28b" />
 
-### 🏠 Home Page
-![Home Page](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/dashboard.png)
 
-### 📋 Job Detail
-![Job Detail](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/job_detail.png)
-
-### 🔐 Login
-![Login](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/login_page.png)
-
-### 📝 Register
-![Register](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/register_page.png)
-
-### ➕ Post Job
-![Post Job](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/post_job.png)
-
-### 🔧 Admin Panel
-![Admin](https://raw.githubusercontent.com/aryanchandel844-netizen/job-portal/main/admin.png)
 
 ## 📁 Project Structure
